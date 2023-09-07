@@ -1,6 +1,6 @@
 # Misilelab license v2.0
 
-Default author information: fabric-mod-template by MisileLaboratory  
+Default author information: some-command by MisileLaboratory  
 You can override author in subproject like `Override author information: Base repository by Misile`
 
 ## library usage condition

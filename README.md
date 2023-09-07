@@ -15,4 +15,4 @@
     * The "mixins" object can be removed from mod.json if you do not need to use mixins.
     * Please replace all occurences of "modid" with your own mod ID - sometimes, a different string may also suffice.
 
-[Download mod](https://nightly.link/MisileLab/fabric-mod-template/workflows/build/master/Artifacts.zip)
+[Download mod](https://nightly.link/MisileLab/some-command/workflows/build/master/Artifacts.zip)

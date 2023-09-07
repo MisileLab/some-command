@@ -1,4 +1,4 @@
-rootProject.name = "fabric-example-mod-kotlin-with-kotlin-dsl"
+rootProject.name = "some-command"
 pluginManagement {
     repositories {
         mavenCentral()
